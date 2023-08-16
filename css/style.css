@@ -42,7 +42,7 @@ nav {
 }
 
 nav::before {
-  content: "JADWAL 9E";
+  content: "JADWAL 9A";
   position: fixed;
   font-size: 1.5em;
   left: 30px;
